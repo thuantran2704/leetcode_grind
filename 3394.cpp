@@ -3,7 +3,14 @@
 #include <algorithm>
 
 using namespace std;
-
+//straightforward a merging intervals problem
+//sort the intervals by x1, then merge the touching intervals
+//if the merged intervals are more than 3, then it is possible to cut the rectangles into 4 pieces
+//otherwise, it is impossible to cut the rectangles into 4 pieces
+//Time complexity: O(nlogn) for sorting the intervals
+//Space complexity: O(n) for storing the merged intervals
+//where n is the number of rectangles
+//rinse and repeat for vertical
 class Solution {
 public:
     vector<vector<int>> mergeIntervals(vector<vector<int>>& intervals) {
