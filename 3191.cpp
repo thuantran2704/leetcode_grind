@@ -2,7 +2,8 @@
 #include <vector>
 
 using namespace std;
-
+//needs revisit some day, the concept is simple yet was
+//quite some out of the box thinking
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
