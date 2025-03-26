@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 
+//gosh I was dumb
 using namespace std;
 
 class Solution {
