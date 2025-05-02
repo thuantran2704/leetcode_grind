@@ -16,7 +16,7 @@ jobs:
       - name: Count .cpp files and update README
         run: |
           count=$(find . -type f -name "*.cpp" | wc -l)
-          sed -i "s/📄 Total \`.cpp\` files: .*/📄 Total \`.cpp\` files: **$count**/" README.md
+          sed -i "s/🧮 Number of problems: .*/🧮 Number of problems: **$count**/" README.md
 
       - name: Commit and push changes
         env:
