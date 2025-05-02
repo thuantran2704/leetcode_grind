@@ -1,2 +1,2 @@
 ﻿# leetcode_grind
-🧮 Number of problems: **55**
+🧮 Number of problems: **56**
