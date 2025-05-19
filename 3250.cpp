@@ -2,7 +2,7 @@ class Solution {
 public:
     const int MOD = 1e9 + 7;
     int dp[2001][52]; // Only memoize index and prevX1
-
+//somehow better than 89% of leetcode solutions man
     // Recursive DP with memoization over i and prevX1 only
     int countWays(int i, int n, const vector<int>& nums, int prevX1, int prevX2) {
         if (i == n) return 1;
