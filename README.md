@@ -1,5 +1,5 @@
 ﻿# leetcode_grind
-🧮 Number of problems: **77**
+🧮 Number of problems: **78**
 
 Note to self:
 Revisits:
