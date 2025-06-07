@@ -1,8 +1,8 @@
 ﻿# leetcode_grind
 <<<<<<< HEAD
-🧮 Number of problems: **85**
+🧮 Number of problems: **87**
 =======
-🧮 Number of problems: **86**
+🧮 Number of problems: **87**
 >>>>>>> caf9b4f4f98fd76cfc410973fa0f2bfde389cdc7
 
 Note to self:
