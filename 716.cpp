@@ -1,3 +1,6 @@
+
+using namespace std;
+#include <stack>
 class MaxStack {
 private:
     set<pair<int, int>> stack;
