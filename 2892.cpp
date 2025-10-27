@@ -1,5 +1,6 @@
 class Solution {
 public:
+//i genuinely hate whoever wrote this questions fr
     int minArrayLength(vector<int>& nums, int k) {
         vector<long long> st;
         for (int x : nums) {
